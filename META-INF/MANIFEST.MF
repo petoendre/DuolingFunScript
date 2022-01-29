@@ -1,0 +1,1 @@
+Main-Class: hu.endre.duolingo.checker.App
