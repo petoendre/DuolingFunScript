@@ -5,6 +5,7 @@ Problems and solutions:
 
 1, NoSuchSessionException: no such session
 - the chromedriver is not compatible anymore. Need a newer one
+- https://chromedriver.chromium.org/downloads
 
 2, unable to create new remote session. desired capabilities
 follow: https://www.guru99.com/installing-selenium-webdriver.html
